@@ -1,6 +1,6 @@
 package js.npm;
 
-@:require("full-screen-api")
+@:jsRequire("full-screen-api")
 extern class FullScreenApi
 {
 	public static var supportsFullScreen(default, null) : Bool;
