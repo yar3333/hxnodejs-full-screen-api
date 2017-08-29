@@ -1,0 +1,11 @@
+{
+  "name": "hxnodejs-full-screen-api",
+  "license": "LGPL",
+  "tags": ["node","nodejs"],
+  "description": "Clientside script to detect/control full screen in browser.",
+  "contributors": ["yar3333"],
+  "releasenote": "Init.",
+  "version": "1.0.0",
+  "url": "https://bitbucket.org/yar3333/hxnodejs-full-screen-api",
+  "dependencies": {}
+}
